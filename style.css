@@ -155,6 +155,9 @@ h1 {
     background: #FFFFFF;
   }
 
+  .photo{display: none;
+  }
+
   h1 {
     position: absolute;
     width: 211.4px;
@@ -319,6 +322,9 @@ h1 {
     background: #FFFFFF;
   }
 
+  .photo{display: none;
+  }
+  
   h1 {
     position: absolute;
     width: 170.08px;
